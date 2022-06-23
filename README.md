@@ -1,0 +1,2 @@
+# Trend-in-Skill-Migration
+• Analyzed 86k records of Linked in-talent skill migration from World Bank data catalog and Human development index from 2015-2019 to demonstrate the impact of HDI, income levels, skill categories on skill migration. • Performed exploratory data analysis on the dataset and Applied Multivariate regression model techniques to predict the relationship between skill migration and the predictors. 
